@@ -13,6 +13,19 @@
   }
 }
 
+.submitBtn{
+  cursor: pointer;
+  background-color: red;
+  color: #fff;
+}
+
+.clear{
+  margin-left: 4px;
+  cursor: pointer;
+  background-color: #125555;
+  color: #fff;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
