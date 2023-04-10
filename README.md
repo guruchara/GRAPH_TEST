@@ -1,5 +1,4 @@
 Here Showing the Employment Graph :)
 
 
-<p align="center"> <img src="https://github.com/guruchara/GRAPH_TEST/blob/main/grow.png" width="350" title="hover text"> <img src="https://github.com/guruchara/GRAPH_TEST/blob/main/grow.png
-" width="350" alt="accessibility text"> </p>
+<p align="center"> <img src="https://github.com/guruchara/GRAPH_TEST/blob/main/grow.png" width="350" title="hover text">
